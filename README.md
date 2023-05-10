@@ -9,4 +9,6 @@ Objectif : analyser une base de données sur la fréquentation des cinémas pour
 
 - Language Python avec librairie Pandas
 - Notebook Jupyter
+- Microsoft Power BI
+- Microsoft Excel
 - Powerpoint
